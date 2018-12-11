@@ -1,0 +1,13 @@
+@echo off
+echo 设置要备份的文件夹
+set "file=E:\python"
+echo 设置备份存放文件夹
+set "backupfile=F:\backtest"
+
+cd /d D:
+cd D:\Program Files\360\360zip
+set yes=ok
+
+echo 设置备份文件名
+set name=%date%
+

@@ -1,0 +1,5 @@
+.git/
+_pycache_
+*.zip
+*.MDF
+*.LDF

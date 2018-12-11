@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+D:\JAVAL2154物流管理系统_T\源程序\wuliu\.metadata\.plugins\org.eclipse.jdt.core
